@@ -25,7 +25,7 @@
 
 - Grokking Algorithms. Aditya Bhargava
 - Introduction to Algorithms. Thomas Cormen
-- Python Machine Learning. Sebastian Raschka , Vahid Mirjalili
+- Python Machine Learning. Sebastian Raschka, Vahid Mirjalili
 
 - C Programming Language. Brian W. Kernighan and Dennis M. Ritchie
 - Java Concurrency in Practice. Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea
